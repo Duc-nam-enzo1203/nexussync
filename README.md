@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20external-brightgreen.svg)](package.json)
-[![Tests](https://img.shields.io/badge/tests-25%20passed%20%7C%20100%25-success.svg)](tests/)
+[![Tests](https://img.shields.io/badge/tests-31%20passed%20%7C%20100%25-success.svg)](tests/)
 [![Architecture](https://img.shields.io/badge/ADRs-3%20Accepted-informational.svg)](docs/adr/)
 [![CI](https://img.shields.io/badge/build-passing-brightgreen.svg)](.github/workflows/ci.yml)
 
