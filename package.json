@@ -1,0 +1,34 @@
+{
+  "name": "nexussync",
+  "version": "0.1.0",
+  "description": "High-Performance Local-First Real-Time Collaborative Engine with CRDTs & Vector Clocks",
+  "type": "module",
+  "main": "./src/index.js",
+  "bin": {
+    "nexussync": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test tests/",
+    "benchmark": "node --test tests/benchmark.test.js"
+  },
+  "keywords": [
+    "crdt",
+    "local-first",
+    "real-time",
+    "collaboration",
+    "vector-clock",
+    "distributed-systems",
+    "eventual-consistency",
+    "websockets"
+  ],
+  "author": "Duc-nam-enzo1203",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duc-nam-enzo1203/nexussync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duc-nam-enzo1203/nexussync/issues"
+  },
+  "homepage": "https://github.com/Duc-nam-enzo1203/nexussync#readme"
+}

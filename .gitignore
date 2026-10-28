@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Logs and local database storage
+*.log
+*.wal
+data/
+logs/
+.cache/
+coverage/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
